@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\TİcTacToe\TİcTacToe\bin\Debug\TİcTacToe.exe.config
+C:\Users\User\source\repos\TİcTacToe\TİcTacToe\bin\Debug\TİcTacToe.exe
+C:\Users\User\source\repos\TİcTacToe\TİcTacToe\bin\Debug\TİcTacToe.pdb
+C:\Users\User\source\repos\TİcTacToe\TİcTacToe\obj\Debug\TİcTacToe.csprojAssemblyReference.cache
+C:\Users\User\source\repos\TİcTacToe\TİcTacToe\obj\Debug\TİcTacToe.Form1.resources
+C:\Users\User\source\repos\TİcTacToe\TİcTacToe\obj\Debug\TİcTacToe.Properties.Resources.resources
+C:\Users\User\source\repos\TİcTacToe\TİcTacToe\obj\Debug\TİcTacToe.csproj.GenerateResource.cache
+C:\Users\User\source\repos\TİcTacToe\TİcTacToe\obj\Debug\TİcTacToe.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\TİcTacToe\TİcTacToe\obj\Debug\TİcTacToe.exe
+C:\Users\User\source\repos\TİcTacToe\TİcTacToe\obj\Debug\TİcTacToe.pdb
